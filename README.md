@@ -26,6 +26,6 @@
 </head>
 <body>
   <h1>🔥 Welcome to blockjunkie eBay Store</h1>
-  <iframe src="https://www.ebay.com/usr/jamic"></iframe>
+  <iframe src="https://www.ebay.com/usr/Blockjunkie"></iframe>
 </body>
 </html>
